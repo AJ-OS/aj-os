@@ -1,4 +1,4 @@
-### Hello 👋
+#Hey there, I'm AJ! 👋
 
 <!--
 **AJ-OS/aj-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
