@@ -1,5 +1,5 @@
-👋 Hey there, I'm AJ!
+Hello there! I'm AJ 👋
 
-- Currently learning Golang
-- I love to automate things and am constantly building automation tools
-- The majority of my projects are private — feel free to reach out via LinkedIn or GitHub if you'd like to know more!
+- I'm currently focused on learning Go, with a particular interest in backend development and cloud operations. I love automating tasks and am always building new tools to streamline workflows.
+- While a majority of my projects are private, I'd be happy to discuss them further if you'd like to connect on LinkedIn or GitHub.
+- Feel free to reach out - I'm always eager to chat about programming, automation, and any other tech-related topics!
