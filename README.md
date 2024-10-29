@@ -1,4 +1,5 @@
 👋 Hey there, I'm AJ!
 
 - Currently learning Golang
-- Most of my projects are private — feel free to reach out if you’d like to know more!
+- I love to automate things and am constantly building automation tools
+- Most of my projects are private — feel free to reach out via LinkedIn or GitHub if you'd like to know more!
